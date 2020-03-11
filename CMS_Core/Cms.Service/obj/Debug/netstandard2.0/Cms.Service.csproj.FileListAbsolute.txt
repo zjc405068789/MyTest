@@ -1,0 +1,16 @@
+E:\Mine\My_Project\Net\Template\CMS_Core\Cms.Service\bin\Debug\netstandard2.0\Cms.Service.deps.json
+E:\Mine\My_Project\Net\Template\CMS_Core\Cms.Service\bin\Debug\netstandard2.0\Cms.Service.dll
+E:\Mine\My_Project\Net\Template\CMS_Core\Cms.Service\bin\Debug\netstandard2.0\Cms.Service.pdb
+E:\Mine\My_Project\Net\Template\CMS_Core\Cms.Service\bin\Debug\netstandard2.0\Cms.Domain.dll
+E:\Mine\My_Project\Net\Template\CMS_Core\Cms.Service\bin\Debug\netstandard2.0\Cms.IRepository.dll
+E:\Mine\My_Project\Net\Template\CMS_Core\Cms.Service\bin\Debug\netstandard2.0\Cms.IService.dll
+E:\Mine\My_Project\Net\Template\CMS_Core\Cms.Service\bin\Debug\netstandard2.0\Cms.IRepository.pdb
+E:\Mine\My_Project\Net\Template\CMS_Core\Cms.Service\bin\Debug\netstandard2.0\Cms.IService.pdb
+E:\Mine\My_Project\Net\Template\CMS_Core\Cms.Service\bin\Debug\netstandard2.0\Cms.Domain.pdb
+E:\Mine\My_Project\Net\Template\CMS_Core\Cms.Service\obj\Debug\netstandard2.0\Cms.Service.csprojAssemblyReference.cache
+E:\Mine\My_Project\Net\Template\CMS_Core\Cms.Service\obj\Debug\netstandard2.0\Cms.Service.csproj.CoreCompileInputs.cache
+E:\Mine\My_Project\Net\Template\CMS_Core\Cms.Service\obj\Debug\netstandard2.0\Cms.Service.AssemblyInfoInputs.cache
+E:\Mine\My_Project\Net\Template\CMS_Core\Cms.Service\obj\Debug\netstandard2.0\Cms.Service.AssemblyInfo.cs
+E:\Mine\My_Project\Net\Template\CMS_Core\Cms.Service\obj\Debug\netstandard2.0\Cms.Service.csproj.CopyComplete
+E:\Mine\My_Project\Net\Template\CMS_Core\Cms.Service\obj\Debug\netstandard2.0\Cms.Service.dll
+E:\Mine\My_Project\Net\Template\CMS_Core\Cms.Service\obj\Debug\netstandard2.0\Cms.Service.pdb

@@ -1,0 +1,2 @@
+2019-05-29 14:50:12.1808|HttpsConnectionAdapter|DEBUG|  Failed to authenticate HTTPS connection. Authentication failed because the remote party has closed the transport stream.
+2019-05-29 14:52:21.7725|HttpsConnectionAdapter|DEBUG|  Failed to authenticate HTTPS connection. Authentication failed because the remote party has closed the transport stream.

@@ -1,0 +1,2 @@
+2019-05-28 18:09:16.6470|HttpsConnectionAdapter|DEBUG|  Failed to authenticate HTTPS connection. Authentication failed because the remote party has closed the transport stream.
+2019-05-28 18:09:45.0418|Cms.App.Filters.GlobalExceptionFilter|INFO|  MyInfo 

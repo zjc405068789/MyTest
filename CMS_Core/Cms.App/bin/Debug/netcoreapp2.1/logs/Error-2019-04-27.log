@@ -1,0 +1,1 @@
+2019-04-27 23:35:21.2545|Cms.App.Middlewares.ExceptionHandlerMiddleWare|ERROR|{"DataSource":"Cms.App","ClassName":"HomeController","FunctionName":"MyError","HttpRequestInfo":{"IP":"::1","QueryString":"?code=insert","Method":"GET","Path":"/Home/Myerror","Query":{"code":"insert"}}} Attempted to divide by zero.

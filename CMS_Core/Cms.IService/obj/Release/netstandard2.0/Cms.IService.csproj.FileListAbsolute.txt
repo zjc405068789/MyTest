@@ -1,0 +1,12 @@
+E:\Mine\My_Project\Net\Template\CMS_Core\Cms.IService\bin\Release\netstandard2.0\Cms.IService.deps.json
+E:\Mine\My_Project\Net\Template\CMS_Core\Cms.IService\bin\Release\netstandard2.0\Cms.IService.dll
+E:\Mine\My_Project\Net\Template\CMS_Core\Cms.IService\bin\Release\netstandard2.0\Cms.IService.pdb
+E:\Mine\My_Project\Net\Template\CMS_Core\Cms.IService\bin\Release\netstandard2.0\Cms.Domain.dll
+E:\Mine\My_Project\Net\Template\CMS_Core\Cms.IService\bin\Release\netstandard2.0\Cms.Domain.pdb
+E:\Mine\My_Project\Net\Template\CMS_Core\Cms.IService\obj\Release\netstandard2.0\Cms.IService.csprojAssemblyReference.cache
+E:\Mine\My_Project\Net\Template\CMS_Core\Cms.IService\obj\Release\netstandard2.0\Cms.IService.csproj.CoreCompileInputs.cache
+E:\Mine\My_Project\Net\Template\CMS_Core\Cms.IService\obj\Release\netstandard2.0\Cms.IService.AssemblyInfoInputs.cache
+E:\Mine\My_Project\Net\Template\CMS_Core\Cms.IService\obj\Release\netstandard2.0\Cms.IService.AssemblyInfo.cs
+E:\Mine\My_Project\Net\Template\CMS_Core\Cms.IService\obj\Release\netstandard2.0\Cms.IService.csproj.CopyComplete
+E:\Mine\My_Project\Net\Template\CMS_Core\Cms.IService\obj\Release\netstandard2.0\Cms.IService.dll
+E:\Mine\My_Project\Net\Template\CMS_Core\Cms.IService\obj\Release\netstandard2.0\Cms.IService.pdb

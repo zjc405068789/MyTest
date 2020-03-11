@@ -1,0 +1,1 @@
+2019-04-28 18:10:00.9472|Cms.App.Filters.GlobalExceptionFilter|ERROR|{"DataSource":"Cms.App","ClassName":"HomeController","FunctionName":"MyError","HttpRequestInfo":{"IP":"::1","QueryString":"","Method":"GET","Path":"/home/myerror","Query":{}}} Attempted to divide by zero.
